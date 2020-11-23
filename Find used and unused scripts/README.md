@@ -1,0 +1,1 @@
+Script to interact with your API. This simple script will fetch all your computers, so you can build atop of it. 
