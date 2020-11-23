@@ -1,0 +1,1 @@
+This script will prompt users to upgrade to macOS Catalina withing a specified timeframe. No upgrade deferral is possible 
