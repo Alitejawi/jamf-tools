@@ -1,0 +1,1 @@
+This scripts lets you run commands as the logged in user. Some scripts require you to utilise the logged in users account to execute processes or commands, such as LaunchAgents. 
