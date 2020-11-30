@@ -1,6 +1,6 @@
 # Jamf-tools
 
-## Useful tools to interact with Jamf
+## Useful tools to interact with machines through Jamf
 
 [**Script snippets**](https://github.com/Itejawi/jamf-tools/tree/master/Script%20snippets) are snippets that can be used in bigger scripts. 
 
