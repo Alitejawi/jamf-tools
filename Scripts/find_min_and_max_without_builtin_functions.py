@@ -2,7 +2,7 @@
 
 __author__ = "Ali Al-Itejawi"
 __version__ = "1.0"
-__email__ = "ali.alitejawi@booking.com"
+__email__ = "ali@al-itejawi.com"
 
 
 __description__ = "This script will find the minimum value and maximum value of a list of integers without using the built-in functions"
