@@ -1,10 +1,29 @@
-# Jamf-tools
+<p align="center">
+  <a href="https://github.com/Alitejawi/jamf-tools">
+ <img width=350px src="https://www.vectorlogo.zone/logos/jamf/jamf-ar21.svg"></a>
+</p>
 
-## Useful tools to interact with machines through Jamf
+<h2 align="center">jamf-tools</h2>
 
-[**Script snippets**](https://github.com/Itejawi/jamf-tools/tree/master/Script%20snippets) are snippets that can be used in bigger scripts. 
+<div align="center">
 
-[**Script**](https://github.com/Itejawi/jamf-tools/tree/master/Scripts) are standalone and are commands that can run on their own. 
+[![Status](https://img.shields.io/github/last-commit/Alitejawi/jamf-tools.svg?style=flat-square)](https://github.com/Alitejawi/jamf-tools/commits/master)
+[![GitHub Issues](https://img.shields.io/github/issues/Alitejawi/jamf-tools.svg?style=flat-square)](https://github.com/Alitejawi/jamf-tools/issues)
+[![License](https://img.shields.io/github/license/Alitejawi/jamf-tools?style=flat-square)](https://github.com/Alitejawi/jamf-tools/blob/master/LICENSE)
+
+</div>
+
+
+---
+
+<p align="center">
+💻 Useful tools to interact with machines through Jamf.
+  <br>
+</p>
+
+[**Script snippets**](https://github.com/Alitejawi/jamf-tools/tree/master/Script%20snippets) are snippets that can be used in bigger scripts. 
+
+[**Script**](https://github.com/Alitejawi/jamf-tools/tree/master/Scripts) are standalone and are commands that can run on their own. 
 
 ### Script snippets
 --------
