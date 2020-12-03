@@ -9,7 +9,7 @@
 ### Script snippets
 --------
 
-[blank.sh](https://github.com/Itejawi/jamf-tools/blob/master/Script%20snippets/blank.sh)
+[blank.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Script%20snippets/blank.sh)
 
 
 
