@@ -17,42 +17,38 @@
 ---
 
 
-[32bit\_app\_check.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/32bit_app_check.sh)
+[32bit\_app\_check.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/32bit_app_check.sh)
 
-[admin_demote_all_users.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/admin_demote_all_users.sh)  
+[admin_demote_all_users.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/admin_demote_all_users.sh)  
 
-[admin_promote_user_to_admin.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/admin_promote_user_to_admin.sh)  
+[admin_promote_user_to_admin.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/admin_promote_user_to_admin.sh)  
 
-[block\_updates.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/block_updates.sh)  
+[block\_updates.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/block_updates.sh)  
 
-[delete\_fireeye\_hx\_forcefully.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/delete_fireeye_hx_forcefully.sh)
+[delete\_fireeye\_hx\_forcefully.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/delete_fireeye_hx_forcefully.sh)
   
-[delete\_wifi\_from\_keychain.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/delete_wifi_from_keychain.sh) 
+[delete\_wifi\_from\_keychain.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/delete_wifi_from_keychain.sh) 
 
-[disable\_time\_machine\_prompt.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/disable_time_machine_prompt.sh)  
+[disable\_time\_machine\_prompt.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/disable_time_machine_prompt.sh)  
 
-[enforce\_macOS\_Catalina\_upgrade\_script\_no\_deferral.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/Enforce_macOS_Catalina_upgrade_script_no_deferral.sh)  
+[find\_string\_in\_directory.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/find_string_in_directory.sh) 
 
-[launchagents\_examples.md](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/LaunchAgents_examples.md)  
+[get\_user\_identity\_pref.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/get_user_identity_pref.sh)  
 
-[find\_min\_and\_max\_without\_builtin\_functions.py](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/find_min_and_max_without_builtin_functions.py) 
+[google\_chrome\_install](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/google_chrome_install.sh)  
 
-[find\_string\_in\_directory.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/find_string_in_directory.sh) 
+[has_network_account.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/has_network_account.sh)
 
-[get\_user\_identity\_pref.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/get_user_identity_pref.sh)  
+[ignore_list_macos_updates.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/ignore_list_macos_updates.sh)
 
-[google\_chrome\_install](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/google_chrome_install.sh)  
+[install_latest_google_drive_file_stream.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/install_latest_google_drive_file_stream.sh)
 
-[has_network_account.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/has_network_account.sh)
+[launchagents\_examples.md](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/LaunchAgents_examples.md)  
 
-[ignore_list_macos_updates.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/ignore_list_macos_updates.sh)
+[list_all_local_useraccounts.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/list_all_local_useraccounts.sh)
 
-[install_latest_google_drive_file_stream.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/install_latest_google_drive_file_stream.sh)
+[run_command_as_user.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/run_command_as_user.sh)
 
-[jamf_find_used_and_unused_scripts.py](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/jamf_find_used_and_unused_scripts.py)
+[unbind_from_ad.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/unbind_from_ad.sh)
 
-[run_command_as_user.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/run_command_as_user.sh)
-
-[unbind_from_ad.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/unbind_from_ad.sh)
-
-[who_has_securetoken.sh](https://github.com/Itejawi/jamf-tools/blob/master/Scripts/who_has_securetoken.sh)
+[who_has_securetoken.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/who_has_securetoken.sh)
