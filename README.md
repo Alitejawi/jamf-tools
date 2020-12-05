@@ -13,7 +13,6 @@
 
 </div>
 
-
 ---
 
 <p align="center">
@@ -21,16 +20,19 @@
   <br>
 </p>
 
-[**Script snippets**](https://github.com/Alitejawi/jamf-tools/tree/master/Script%20snippets) are snippets that can be used in bigger scripts. 
+**Script snippets**
 
 [**Script**](https://github.com/Alitejawi/jamf-tools/tree/master/Scripts) are standalone and are commands that can run on their own. 
+
+[### Extension Attributes](https://github.com/Alitejawi/jamf-tools/tree/master/Extension%20Attributes)
+
+[local_or_network_account.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Extension%20Attributes/local_or_network_account.sh)
+
 
 ### Script snippets
 --------
 
 [blank.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Script%20snippets/blank.sh)
-
-
 
 ### Scripts
 ---
