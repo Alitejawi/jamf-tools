@@ -20,11 +20,9 @@
   <br>
 </p>
 
-**Script snippets**
 
-[**Script**](https://github.com/Alitejawi/jamf-tools/tree/master/Scripts) are standalone and are commands that can run on their own. 
-
-[### Extension Attributes](https://github.com/Alitejawi/jamf-tools/tree/master/Extension%20Attributes)
+### Extension Attributes
+----
 
 [local_or_network_account.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Extension%20Attributes/local_or_network_account.sh)
 
