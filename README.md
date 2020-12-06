@@ -24,7 +24,10 @@
 ### Extension Attributes
 ----
 
+[blank_extension_attribute.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Extension%20Attributes/blank_extension_attribute.sh)
+
 [local_or_network_account.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Extension%20Attributes/local_or_network_account.sh)
+
 
 
 ### Script snippets
