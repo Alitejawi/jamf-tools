@@ -71,6 +71,8 @@
 
 [run_command_as_user.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/run_command_as_user.sh)
 
+[set_firmware_password.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/set_firmware_password.sh)
+
 [unbind_from_ad.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/unbind_from_ad.sh)
 
 [who_has_securetoken.sh](https://github.com/Alitejawi/jamf-tools/blob/master/Scripts/who_has_securetoken.sh)
