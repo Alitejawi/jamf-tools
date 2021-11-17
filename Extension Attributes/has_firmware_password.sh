@@ -2,4 +2,4 @@
 
 FWpassword=$(/usr/sbin/firmwarepasswd -check | /usr/bin/awk '/Enabled/ {print $NF}')
 
-echo "<result>FWpassword</result>"
+echo "<result>$FWpassword</result>"
