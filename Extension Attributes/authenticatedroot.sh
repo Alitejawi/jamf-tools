@@ -4,4 +4,4 @@
 authrootstatus=$(/usr/bin/csrutil authenticated-root)
 
 # Report result, use "<result>$defaulttype</result>" to have Jamf report only the result
-echo "<result>$authrootstatus</result>" 
+echo "<result>$authrootstatus</result>"
