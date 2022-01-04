@@ -6,7 +6,7 @@
 #loggedInUser=$logname
 loggedInUser=$(/usr/bin/stat -f%Su "/dev/console")
 
-/usr/sbin/dseditgroup -o edit -a $loggedInUser -t user admin
+/usr/sbin/dseditgroup -o edit -a "$loggedInUser" -t user admin
 echo "Granted admin privileges to $loggedInUser."
 
 
