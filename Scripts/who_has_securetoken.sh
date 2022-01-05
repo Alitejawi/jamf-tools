@@ -4,11 +4,11 @@ AllUsers=$(dscl . list /Users | grep -v _)
 
 for EachUser in $AllUsers; do
 
-TokenValue=$(sysadminctl -secureTokenStatus $EachUser 2>&1)
+TokenValue=$(sysadminctl -secureTokenStatus "$EachUser" 2>&1)
     echo "Checking $EachUser"
 
 	if [[ $TokenValue = *"ENABLED"* ]]; then
-        SecureTokenUsers+=($EachUser)
+        SecureTokenUsers+=("$EachUser")
 	fi
 done
 
